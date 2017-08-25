@@ -19,7 +19,7 @@ text-align: center;
 
 
 #home {
-margin-bottom: 150px;
+margin-bottom: 50px;
 padding: 0px 10px;
 }
 
@@ -41,9 +41,9 @@ text-align: center;
 
 #footer {
 background: #111;
-height: 380px;
+height: 200px;
 width: 100%;
-padding: 100px 10px 0px 10px;
+padding: 80px 10px 0px 10px;
 text-align: center;
 }
 
@@ -64,7 +64,6 @@ padding: 10px;
 .team {
 margin-bottom: 100px;
 }
-
 
 
 #logo {
